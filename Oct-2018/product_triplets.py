@@ -48,4 +48,5 @@ def get_product_triplets():
                                  "number_of_inputs": number_of_inputs,
                                  "inputs": inputs}).start()
 
+
 get_product_triplets()
